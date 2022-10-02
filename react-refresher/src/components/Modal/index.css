@@ -1,0 +1,9 @@
+.modal-container{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    margin: auto;
+    z-index: 5;
+    background-color: red;
+
+}
